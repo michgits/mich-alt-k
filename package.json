@@ -1,0 +1,13 @@
+{
+  "name": "alt",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "appendjson": "^0.1.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
